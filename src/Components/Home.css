@@ -1,0 +1,20 @@
+
+body{
+    background: rgba(237, 234, 234, 0.563);
+}
+
+.img-round{
+    border-radius: 50%;
+    width: 30%;
+    position: absolute;
+    left: 26%;
+    margin-top: 4em;
+}
+
+.name{
+    position: absolute;
+    top: 6em;
+    left: 3em;
+    font-weight: bolder;
+}
+
