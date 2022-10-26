@@ -19,10 +19,10 @@ body{
 }
 
  .twitter{
-    font-size: 2em;
+    font-size: 3em;
     position: relative;
-    top: 8em;
-    left: 4em;
+    top: 5.3em;
+    left: 3em;
     color: rgb(28, 150, 243);
 }
 
@@ -34,4 +34,56 @@ body{
     color: rgb(28, 150, 243);
 }
 
+.content-links{
+    background-color: #EAECF0;
+    height: 4em;
+    border-radius: 6px;
+    position: relative;
+    top: 17em;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    position: relative;
 
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+
+.twi{
+    position: relative;
+    top: 1em;
+}
+.parent2{
+    position: relative;
+    top: 1.7em;
+}
+.parent3 {
+    position: relative;
+    top: 3.7em;
+}
+
+.parent4 {
+    position: relative;
+    top: 5.5em;
+}
+
+.parent5 {
+    position: relative;
+    top: 7.5em;
+}
+
+.parent6 {
+    position: relative;
+    top: 9.5em;
+}
+
+.content-links:hover{
+    background-color: #d6d8dc;
+    cursor: pointer;
+}
